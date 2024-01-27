@@ -1,0 +1,19 @@
+{
+  "name": "iris-ai-gateway",
+  "version": "1.0.0",
+  "description": "A Cloudflare AI Gateway with Workers",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "cloudflare",
+    "gateway",
+    "ai"
+  ],
+  "author": "snyata core@synavate.tech",
+  "license": "ISC"
+}
